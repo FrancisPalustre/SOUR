@@ -1,3 +1,3 @@
 # SOUR
 
-This ia a test
+The following project is an omnidirectional robot meant to be tested under the Trinity Fire Fighting Competition ruleset. 
